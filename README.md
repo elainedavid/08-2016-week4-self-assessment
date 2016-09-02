@@ -17,7 +17,7 @@ Extend Object:					Complete
 
 Debug Transform:				Complete
 
-Use filterBy with Predicate:	
+Use filterBy with Predicate:	Complete
 
 
 ## Self-Grading Process

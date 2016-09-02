@@ -50,6 +50,7 @@ console.log(doubleNumbers);		// logs [2, 4, 6, 8, 10]
 
 
 // this is made for you
+/*
 function loop(collection, callback){
 	if (Array.isArray(collection)){
 		for (var i = 0; i < collection.length; i++) {
@@ -61,11 +62,4 @@ function loop(collection, callback){
 		};
 	}
 };
-
-
-
-
-
-
-
-
+*/
