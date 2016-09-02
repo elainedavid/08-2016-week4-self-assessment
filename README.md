@@ -13,7 +13,7 @@
 ## Grading Outline
 
 
-Extend Object:
+Extend Object:					Complete
 
 Debug Transform:
 
